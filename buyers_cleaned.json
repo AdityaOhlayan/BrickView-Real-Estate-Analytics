@@ -1,0 +1,3422 @@
+[
+  {
+    "Buyer_ID": "BYR0001",
+    "Sale_ID": "SAL0001",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0002",
+    "Sale_ID": "SAL0002",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0003",
+    "Sale_ID": "SAL0003",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "HDFC",
+    "Loan_Amount": 13151271
+  },
+  {
+    "Buyer_ID": "BYR0004",
+    "Sale_ID": "SAL0004",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": true,
+    "Loan_Provider": "Kotak",
+    "Loan_Amount": 13681379
+  },
+  {
+    "Buyer_ID": "BYR0005",
+    "Sale_ID": "SAL0005",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "SBI",
+    "Loan_Amount": 24589489
+  },
+  {
+    "Buyer_ID": "BYR0006",
+    "Sale_ID": "SAL0006",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": true,
+    "Loan_Provider": "Kotak",
+    "Loan_Amount": 6962801
+  },
+  {
+    "Buyer_ID": "BYR0007",
+    "Sale_ID": "SAL0007",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0008",
+    "Sale_ID": "SAL0008",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0009",
+    "Sale_ID": "SAL0009",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": true,
+    "Loan_Provider": "Axis Bank",
+    "Loan_Amount": 26138212
+  },
+  {
+    "Buyer_ID": "BYR0010",
+    "Sale_ID": "SAL0010",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": true,
+    "Loan_Provider": "ICICI",
+    "Loan_Amount": 14195298
+  },
+  {
+    "Buyer_ID": "BYR0011",
+    "Sale_ID": "SAL0011",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": true,
+    "Loan_Provider": "Axis Bank",
+    "Loan_Amount": 66154753
+  },
+  {
+    "Buyer_ID": "BYR0012",
+    "Sale_ID": "SAL0012",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": true,
+    "Loan_Provider": "Axis Bank",
+    "Loan_Amount": 7588720
+  },
+  {
+    "Buyer_ID": "BYR0013",
+    "Sale_ID": "SAL0013",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0014",
+    "Sale_ID": "SAL0014",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "Axis Bank",
+    "Loan_Amount": 48158294
+  },
+  {
+    "Buyer_ID": "BYR0015",
+    "Sale_ID": "SAL0015",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0016",
+    "Sale_ID": "SAL0016",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0017",
+    "Sale_ID": "SAL0017",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "ICICI",
+    "Loan_Amount": 6768745
+  },
+  {
+    "Buyer_ID": "BYR0018",
+    "Sale_ID": "SAL0018",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "HDFC",
+    "Loan_Amount": 15888724
+  },
+  {
+    "Buyer_ID": "BYR0019",
+    "Sale_ID": "SAL0019",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": true,
+    "Loan_Provider": "SBI",
+    "Loan_Amount": 22525916
+  },
+  {
+    "Buyer_ID": "BYR0020",
+    "Sale_ID": "SAL0020",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": true,
+    "Loan_Provider": "ICICI",
+    "Loan_Amount": 7287529
+  },
+  {
+    "Buyer_ID": "BYR0021",
+    "Sale_ID": "SAL0021",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "ICICI",
+    "Loan_Amount": 8552942
+  },
+  {
+    "Buyer_ID": "BYR0022",
+    "Sale_ID": "SAL0022",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "Axis Bank",
+    "Loan_Amount": 6456172
+  },
+  {
+    "Buyer_ID": "BYR0023",
+    "Sale_ID": "SAL0023",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0024",
+    "Sale_ID": "SAL0024",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": true,
+    "Loan_Provider": "SBI",
+    "Loan_Amount": 21806267
+  },
+  {
+    "Buyer_ID": "BYR0025",
+    "Sale_ID": "SAL0025",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0026",
+    "Sale_ID": "SAL0026",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0027",
+    "Sale_ID": "SAL0027",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0028",
+    "Sale_ID": "SAL0028",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0029",
+    "Sale_ID": "SAL0029",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "SBI",
+    "Loan_Amount": 21632174
+  },
+  {
+    "Buyer_ID": "BYR0030",
+    "Sale_ID": "SAL0030",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0031",
+    "Sale_ID": "SAL0031",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "Kotak",
+    "Loan_Amount": 8744579
+  },
+  {
+    "Buyer_ID": "BYR0032",
+    "Sale_ID": "SAL0032",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0033",
+    "Sale_ID": "SAL0033",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "Axis Bank",
+    "Loan_Amount": 36381161
+  },
+  {
+    "Buyer_ID": "BYR0034",
+    "Sale_ID": "SAL0034",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0035",
+    "Sale_ID": "SAL0035",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "SBI",
+    "Loan_Amount": 7505783
+  },
+  {
+    "Buyer_ID": "BYR0036",
+    "Sale_ID": "SAL0036",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "LIC Housing",
+    "Loan_Amount": 27297059
+  },
+  {
+    "Buyer_ID": "BYR0037",
+    "Sale_ID": "SAL0037",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0038",
+    "Sale_ID": "SAL0038",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0039",
+    "Sale_ID": "SAL0039",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0040",
+    "Sale_ID": "SAL0040",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "LIC Housing",
+    "Loan_Amount": 22472983
+  },
+  {
+    "Buyer_ID": "BYR0041",
+    "Sale_ID": "SAL0041",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "ICICI",
+    "Loan_Amount": 21616970
+  },
+  {
+    "Buyer_ID": "BYR0042",
+    "Sale_ID": "SAL0042",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": true,
+    "Loan_Provider": "Axis Bank",
+    "Loan_Amount": 25742630
+  },
+  {
+    "Buyer_ID": "BYR0043",
+    "Sale_ID": "SAL0043",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0044",
+    "Sale_ID": "SAL0044",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": true,
+    "Loan_Provider": "Kotak",
+    "Loan_Amount": 9702123
+  },
+  {
+    "Buyer_ID": "BYR0045",
+    "Sale_ID": "SAL0045",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0046",
+    "Sale_ID": "SAL0046",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0047",
+    "Sale_ID": "SAL0047",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0048",
+    "Sale_ID": "SAL0048",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0049",
+    "Sale_ID": "SAL0049",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0050",
+    "Sale_ID": "SAL0050",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0051",
+    "Sale_ID": "SAL0051",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0052",
+    "Sale_ID": "SAL0052",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0053",
+    "Sale_ID": "SAL0053",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0054",
+    "Sale_ID": "SAL0054",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0055",
+    "Sale_ID": "SAL0055",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0056",
+    "Sale_ID": "SAL0056",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": true,
+    "Loan_Provider": "HDFC",
+    "Loan_Amount": 30841521
+  },
+  {
+    "Buyer_ID": "BYR0057",
+    "Sale_ID": "SAL0057",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "LIC Housing",
+    "Loan_Amount": 20013174
+  },
+  {
+    "Buyer_ID": "BYR0058",
+    "Sale_ID": "SAL0058",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": true,
+    "Loan_Provider": "SBI",
+    "Loan_Amount": 15533448
+  },
+  {
+    "Buyer_ID": "BYR0059",
+    "Sale_ID": "SAL0059",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0060",
+    "Sale_ID": "SAL0060",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0061",
+    "Sale_ID": "SAL0061",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": true,
+    "Loan_Provider": "ICICI",
+    "Loan_Amount": 26040414
+  },
+  {
+    "Buyer_ID": "BYR0062",
+    "Sale_ID": "SAL0062",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0063",
+    "Sale_ID": "SAL0063",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": true,
+    "Loan_Provider": "SBI",
+    "Loan_Amount": 9848836
+  },
+  {
+    "Buyer_ID": "BYR0064",
+    "Sale_ID": "SAL0064",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "LIC Housing",
+    "Loan_Amount": 14171818
+  },
+  {
+    "Buyer_ID": "BYR0065",
+    "Sale_ID": "SAL0065",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "ICICI",
+    "Loan_Amount": 64617293
+  },
+  {
+    "Buyer_ID": "BYR0066",
+    "Sale_ID": "SAL0066",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0067",
+    "Sale_ID": "SAL0067",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0068",
+    "Sale_ID": "SAL0068",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0069",
+    "Sale_ID": "SAL0069",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "HDFC",
+    "Loan_Amount": 52992861
+  },
+  {
+    "Buyer_ID": "BYR0070",
+    "Sale_ID": "SAL0070",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "SBI",
+    "Loan_Amount": 6231739
+  },
+  {
+    "Buyer_ID": "BYR0071",
+    "Sale_ID": "SAL0071",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0072",
+    "Sale_ID": "SAL0072",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0073",
+    "Sale_ID": "SAL0073",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": true,
+    "Loan_Provider": "ICICI",
+    "Loan_Amount": 7361845
+  },
+  {
+    "Buyer_ID": "BYR0074",
+    "Sale_ID": "SAL0074",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0075",
+    "Sale_ID": "SAL0075",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "Axis Bank",
+    "Loan_Amount": 7652366
+  },
+  {
+    "Buyer_ID": "BYR0076",
+    "Sale_ID": "SAL0076",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0077",
+    "Sale_ID": "SAL0077",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0078",
+    "Sale_ID": "SAL0078",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "SBI",
+    "Loan_Amount": 44936106
+  },
+  {
+    "Buyer_ID": "BYR0079",
+    "Sale_ID": "SAL0079",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0080",
+    "Sale_ID": "SAL0080",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0081",
+    "Sale_ID": "SAL0081",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0082",
+    "Sale_ID": "SAL0082",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "Kotak",
+    "Loan_Amount": 4836359
+  },
+  {
+    "Buyer_ID": "BYR0083",
+    "Sale_ID": "SAL0083",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0084",
+    "Sale_ID": "SAL0084",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "LIC Housing",
+    "Loan_Amount": 16911912
+  },
+  {
+    "Buyer_ID": "BYR0085",
+    "Sale_ID": "SAL0085",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": true,
+    "Loan_Provider": "Axis Bank",
+    "Loan_Amount": 20529636
+  },
+  {
+    "Buyer_ID": "BYR0086",
+    "Sale_ID": "SAL0086",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0087",
+    "Sale_ID": "SAL0087",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": true,
+    "Loan_Provider": "HDFC",
+    "Loan_Amount": 7490159
+  },
+  {
+    "Buyer_ID": "BYR0088",
+    "Sale_ID": "SAL0088",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "SBI",
+    "Loan_Amount": 17175483
+  },
+  {
+    "Buyer_ID": "BYR0089",
+    "Sale_ID": "SAL0089",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": true,
+    "Loan_Provider": "Kotak",
+    "Loan_Amount": 38301853
+  },
+  {
+    "Buyer_ID": "BYR0090",
+    "Sale_ID": "SAL0090",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0091",
+    "Sale_ID": "SAL0091",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "Axis Bank",
+    "Loan_Amount": 28556869
+  },
+  {
+    "Buyer_ID": "BYR0092",
+    "Sale_ID": "SAL0092",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "LIC Housing",
+    "Loan_Amount": 23220699
+  },
+  {
+    "Buyer_ID": "BYR0093",
+    "Sale_ID": "SAL0093",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": true,
+    "Loan_Provider": "Kotak",
+    "Loan_Amount": 26001918
+  },
+  {
+    "Buyer_ID": "BYR0094",
+    "Sale_ID": "SAL0094",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0095",
+    "Sale_ID": "SAL0095",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": true,
+    "Loan_Provider": "SBI",
+    "Loan_Amount": 21243124
+  },
+  {
+    "Buyer_ID": "BYR0096",
+    "Sale_ID": "SAL0096",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0097",
+    "Sale_ID": "SAL0097",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0098",
+    "Sale_ID": "SAL0098",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "HDFC",
+    "Loan_Amount": 51595483
+  },
+  {
+    "Buyer_ID": "BYR0099",
+    "Sale_ID": "SAL0099",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "Kotak",
+    "Loan_Amount": 26089401
+  },
+  {
+    "Buyer_ID": "BYR0100",
+    "Sale_ID": "SAL0100",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": true,
+    "Loan_Provider": "HDFC",
+    "Loan_Amount": 3237138
+  },
+  {
+    "Buyer_ID": "BYR0101",
+    "Sale_ID": "SAL0101",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0102",
+    "Sale_ID": "SAL0102",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": true,
+    "Loan_Provider": "ICICI",
+    "Loan_Amount": 8017847
+  },
+  {
+    "Buyer_ID": "BYR0103",
+    "Sale_ID": "SAL0103",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0104",
+    "Sale_ID": "SAL0104",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0105",
+    "Sale_ID": "SAL0105",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0106",
+    "Sale_ID": "SAL0106",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "LIC Housing",
+    "Loan_Amount": 8821959
+  },
+  {
+    "Buyer_ID": "BYR0107",
+    "Sale_ID": "SAL0107",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0108",
+    "Sale_ID": "SAL0108",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "SBI",
+    "Loan_Amount": 19781848
+  },
+  {
+    "Buyer_ID": "BYR0109",
+    "Sale_ID": "SAL0109",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "HDFC",
+    "Loan_Amount": 50332346
+  },
+  {
+    "Buyer_ID": "BYR0110",
+    "Sale_ID": "SAL0110",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0111",
+    "Sale_ID": "SAL0111",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "LIC Housing",
+    "Loan_Amount": 3319218
+  },
+  {
+    "Buyer_ID": "BYR0112",
+    "Sale_ID": "SAL0112",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0113",
+    "Sale_ID": "SAL0113",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0114",
+    "Sale_ID": "SAL0114",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0115",
+    "Sale_ID": "SAL0115",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0116",
+    "Sale_ID": "SAL0116",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0117",
+    "Sale_ID": "SAL0117",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0118",
+    "Sale_ID": "SAL0118",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "LIC Housing",
+    "Loan_Amount": 6732415
+  },
+  {
+    "Buyer_ID": "BYR0119",
+    "Sale_ID": "SAL0119",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": true,
+    "Loan_Provider": "ICICI",
+    "Loan_Amount": 4028932
+  },
+  {
+    "Buyer_ID": "BYR0120",
+    "Sale_ID": "SAL0120",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": true,
+    "Loan_Provider": "Axis Bank",
+    "Loan_Amount": 13091626
+  },
+  {
+    "Buyer_ID": "BYR0121",
+    "Sale_ID": "SAL0121",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0122",
+    "Sale_ID": "SAL0122",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0123",
+    "Sale_ID": "SAL0123",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0124",
+    "Sale_ID": "SAL0124",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": true,
+    "Loan_Provider": "ICICI",
+    "Loan_Amount": 71230816
+  },
+  {
+    "Buyer_ID": "BYR0125",
+    "Sale_ID": "SAL0125",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "SBI",
+    "Loan_Amount": 15116793
+  },
+  {
+    "Buyer_ID": "BYR0126",
+    "Sale_ID": "SAL0126",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": true,
+    "Loan_Provider": "ICICI",
+    "Loan_Amount": 37867587
+  },
+  {
+    "Buyer_ID": "BYR0127",
+    "Sale_ID": "SAL0127",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0128",
+    "Sale_ID": "SAL0128",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0129",
+    "Sale_ID": "SAL0129",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "Kotak",
+    "Loan_Amount": 34719642
+  },
+  {
+    "Buyer_ID": "BYR0130",
+    "Sale_ID": "SAL0130",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0131",
+    "Sale_ID": "SAL0131",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": true,
+    "Loan_Provider": "Axis Bank",
+    "Loan_Amount": 29701798
+  },
+  {
+    "Buyer_ID": "BYR0132",
+    "Sale_ID": "SAL0132",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0133",
+    "Sale_ID": "SAL0133",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0134",
+    "Sale_ID": "SAL0134",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0135",
+    "Sale_ID": "SAL0135",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "Kotak",
+    "Loan_Amount": 14440349
+  },
+  {
+    "Buyer_ID": "BYR0136",
+    "Sale_ID": "SAL0136",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0137",
+    "Sale_ID": "SAL0137",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0138",
+    "Sale_ID": "SAL0138",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0139",
+    "Sale_ID": "SAL0139",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": true,
+    "Loan_Provider": "SBI",
+    "Loan_Amount": 9784340
+  },
+  {
+    "Buyer_ID": "BYR0140",
+    "Sale_ID": "SAL0140",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0141",
+    "Sale_ID": "SAL0141",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": true,
+    "Loan_Provider": "Axis Bank",
+    "Loan_Amount": 12445572
+  },
+  {
+    "Buyer_ID": "BYR0142",
+    "Sale_ID": "SAL0142",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "HDFC",
+    "Loan_Amount": 28849536
+  },
+  {
+    "Buyer_ID": "BYR0143",
+    "Sale_ID": "SAL0143",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0144",
+    "Sale_ID": "SAL0144",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "LIC Housing",
+    "Loan_Amount": 22273224
+  },
+  {
+    "Buyer_ID": "BYR0145",
+    "Sale_ID": "SAL0145",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": true,
+    "Loan_Provider": "LIC Housing",
+    "Loan_Amount": 22153901
+  },
+  {
+    "Buyer_ID": "BYR0146",
+    "Sale_ID": "SAL0146",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": true,
+    "Loan_Provider": "SBI",
+    "Loan_Amount": 26516457
+  },
+  {
+    "Buyer_ID": "BYR0147",
+    "Sale_ID": "SAL0147",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "LIC Housing",
+    "Loan_Amount": 4253154
+  },
+  {
+    "Buyer_ID": "BYR0148",
+    "Sale_ID": "SAL0148",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": true,
+    "Loan_Provider": "HDFC",
+    "Loan_Amount": 21594696
+  },
+  {
+    "Buyer_ID": "BYR0149",
+    "Sale_ID": "SAL0149",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": true,
+    "Loan_Provider": "SBI",
+    "Loan_Amount": 5498845
+  },
+  {
+    "Buyer_ID": "BYR0150",
+    "Sale_ID": "SAL0150",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0151",
+    "Sale_ID": "SAL0151",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0152",
+    "Sale_ID": "SAL0152",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0153",
+    "Sale_ID": "SAL0153",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "Kotak",
+    "Loan_Amount": 8756449
+  },
+  {
+    "Buyer_ID": "BYR0154",
+    "Sale_ID": "SAL0154",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": true,
+    "Loan_Provider": "LIC Housing",
+    "Loan_Amount": 7793201
+  },
+  {
+    "Buyer_ID": "BYR0155",
+    "Sale_ID": "SAL0155",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": true,
+    "Loan_Provider": "Kotak",
+    "Loan_Amount": 36523802
+  },
+  {
+    "Buyer_ID": "BYR0156",
+    "Sale_ID": "SAL0156",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "ICICI",
+    "Loan_Amount": 3674957
+  },
+  {
+    "Buyer_ID": "BYR0157",
+    "Sale_ID": "SAL0157",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "LIC Housing",
+    "Loan_Amount": 48556725
+  },
+  {
+    "Buyer_ID": "BYR0158",
+    "Sale_ID": "SAL0158",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0159",
+    "Sale_ID": "SAL0159",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0160",
+    "Sale_ID": "SAL0160",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "HDFC",
+    "Loan_Amount": 12001600
+  },
+  {
+    "Buyer_ID": "BYR0161",
+    "Sale_ID": "SAL0161",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": true,
+    "Loan_Provider": "LIC Housing",
+    "Loan_Amount": 14063528
+  },
+  {
+    "Buyer_ID": "BYR0162",
+    "Sale_ID": "SAL0162",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0163",
+    "Sale_ID": "SAL0163",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "ICICI",
+    "Loan_Amount": 8155424
+  },
+  {
+    "Buyer_ID": "BYR0164",
+    "Sale_ID": "SAL0164",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": true,
+    "Loan_Provider": "ICICI",
+    "Loan_Amount": 20490863
+  },
+  {
+    "Buyer_ID": "BYR0165",
+    "Sale_ID": "SAL0165",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0166",
+    "Sale_ID": "SAL0166",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "Axis Bank",
+    "Loan_Amount": 34275671
+  },
+  {
+    "Buyer_ID": "BYR0167",
+    "Sale_ID": "SAL0167",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "Axis Bank",
+    "Loan_Amount": 12162507
+  },
+  {
+    "Buyer_ID": "BYR0168",
+    "Sale_ID": "SAL0168",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0169",
+    "Sale_ID": "SAL0169",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": true,
+    "Loan_Provider": "LIC Housing",
+    "Loan_Amount": 64387136
+  },
+  {
+    "Buyer_ID": "BYR0170",
+    "Sale_ID": "SAL0170",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0171",
+    "Sale_ID": "SAL0171",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": true,
+    "Loan_Provider": "SBI",
+    "Loan_Amount": 8467426
+  },
+  {
+    "Buyer_ID": "BYR0172",
+    "Sale_ID": "SAL0172",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "ICICI",
+    "Loan_Amount": 29508729
+  },
+  {
+    "Buyer_ID": "BYR0173",
+    "Sale_ID": "SAL0173",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": true,
+    "Loan_Provider": "LIC Housing",
+    "Loan_Amount": 7693034
+  },
+  {
+    "Buyer_ID": "BYR0174",
+    "Sale_ID": "SAL0174",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0175",
+    "Sale_ID": "SAL0175",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0176",
+    "Sale_ID": "SAL0176",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "Kotak",
+    "Loan_Amount": 9952953
+  },
+  {
+    "Buyer_ID": "BYR0177",
+    "Sale_ID": "SAL0177",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "HDFC",
+    "Loan_Amount": 30078515
+  },
+  {
+    "Buyer_ID": "BYR0178",
+    "Sale_ID": "SAL0178",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0179",
+    "Sale_ID": "SAL0179",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "Axis Bank",
+    "Loan_Amount": 25918518
+  },
+  {
+    "Buyer_ID": "BYR0180",
+    "Sale_ID": "SAL0180",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": true,
+    "Loan_Provider": "Axis Bank",
+    "Loan_Amount": 5096172
+  },
+  {
+    "Buyer_ID": "BYR0181",
+    "Sale_ID": "SAL0181",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": true,
+    "Loan_Provider": "LIC Housing",
+    "Loan_Amount": 13827191
+  },
+  {
+    "Buyer_ID": "BYR0182",
+    "Sale_ID": "SAL0182",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": true,
+    "Loan_Provider": "SBI",
+    "Loan_Amount": 29475959
+  },
+  {
+    "Buyer_ID": "BYR0183",
+    "Sale_ID": "SAL0183",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0184",
+    "Sale_ID": "SAL0184",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0185",
+    "Sale_ID": "SAL0185",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "Kotak",
+    "Loan_Amount": 5779009
+  },
+  {
+    "Buyer_ID": "BYR0186",
+    "Sale_ID": "SAL0186",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "Axis Bank",
+    "Loan_Amount": 12739842
+  },
+  {
+    "Buyer_ID": "BYR0187",
+    "Sale_ID": "SAL0187",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": true,
+    "Loan_Provider": "Kotak",
+    "Loan_Amount": 13480140
+  },
+  {
+    "Buyer_ID": "BYR0188",
+    "Sale_ID": "SAL0188",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": true,
+    "Loan_Provider": "HDFC",
+    "Loan_Amount": 3294553
+  },
+  {
+    "Buyer_ID": "BYR0189",
+    "Sale_ID": "SAL0189",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0190",
+    "Sale_ID": "SAL0190",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0191",
+    "Sale_ID": "SAL0191",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0192",
+    "Sale_ID": "SAL0192",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0193",
+    "Sale_ID": "SAL0193",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0194",
+    "Sale_ID": "SAL0194",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "LIC Housing",
+    "Loan_Amount": 8404105
+  },
+  {
+    "Buyer_ID": "BYR0195",
+    "Sale_ID": "SAL0195",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0196",
+    "Sale_ID": "SAL0196",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": true,
+    "Loan_Provider": "SBI",
+    "Loan_Amount": 10993922
+  },
+  {
+    "Buyer_ID": "BYR0197",
+    "Sale_ID": "SAL0197",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0198",
+    "Sale_ID": "SAL0198",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0199",
+    "Sale_ID": "SAL0199",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0200",
+    "Sale_ID": "SAL0200",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": true,
+    "Loan_Provider": "ICICI",
+    "Loan_Amount": 9166838
+  },
+  {
+    "Buyer_ID": "BYR0201",
+    "Sale_ID": "SAL0201",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "Kotak",
+    "Loan_Amount": 4137288
+  },
+  {
+    "Buyer_ID": "BYR0202",
+    "Sale_ID": "SAL0202",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0203",
+    "Sale_ID": "SAL0203",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0204",
+    "Sale_ID": "SAL0204",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": true,
+    "Loan_Provider": "Kotak",
+    "Loan_Amount": 6578559
+  },
+  {
+    "Buyer_ID": "BYR0205",
+    "Sale_ID": "SAL0205",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0206",
+    "Sale_ID": "SAL0206",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "LIC Housing",
+    "Loan_Amount": 18296476
+  },
+  {
+    "Buyer_ID": "BYR0207",
+    "Sale_ID": "SAL0207",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0208",
+    "Sale_ID": "SAL0208",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0209",
+    "Sale_ID": "SAL0209",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0210",
+    "Sale_ID": "SAL0210",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0211",
+    "Sale_ID": "SAL0211",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": true,
+    "Loan_Provider": "SBI",
+    "Loan_Amount": 30380278
+  },
+  {
+    "Buyer_ID": "BYR0212",
+    "Sale_ID": "SAL0212",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": true,
+    "Loan_Provider": "HDFC",
+    "Loan_Amount": 16405109
+  },
+  {
+    "Buyer_ID": "BYR0213",
+    "Sale_ID": "SAL0213",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": true,
+    "Loan_Provider": "ICICI",
+    "Loan_Amount": 26347001
+  },
+  {
+    "Buyer_ID": "BYR0214",
+    "Sale_ID": "SAL0214",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0215",
+    "Sale_ID": "SAL0215",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "LIC Housing",
+    "Loan_Amount": 14531224
+  },
+  {
+    "Buyer_ID": "BYR0216",
+    "Sale_ID": "SAL0216",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "Kotak",
+    "Loan_Amount": 3799521
+  },
+  {
+    "Buyer_ID": "BYR0217",
+    "Sale_ID": "SAL0217",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0218",
+    "Sale_ID": "SAL0218",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0219",
+    "Sale_ID": "SAL0219",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "LIC Housing",
+    "Loan_Amount": 8617950
+  },
+  {
+    "Buyer_ID": "BYR0220",
+    "Sale_ID": "SAL0220",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "Axis Bank",
+    "Loan_Amount": 27786423
+  },
+  {
+    "Buyer_ID": "BYR0221",
+    "Sale_ID": "SAL0221",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0222",
+    "Sale_ID": "SAL0222",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": true,
+    "Loan_Provider": "ICICI",
+    "Loan_Amount": 32828604
+  },
+  {
+    "Buyer_ID": "BYR0223",
+    "Sale_ID": "SAL0223",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "LIC Housing",
+    "Loan_Amount": 13946384
+  },
+  {
+    "Buyer_ID": "BYR0224",
+    "Sale_ID": "SAL0224",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": true,
+    "Loan_Provider": "LIC Housing",
+    "Loan_Amount": 8250627
+  },
+  {
+    "Buyer_ID": "BYR0225",
+    "Sale_ID": "SAL0225",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0226",
+    "Sale_ID": "SAL0226",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0227",
+    "Sale_ID": "SAL0227",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0228",
+    "Sale_ID": "SAL0228",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "Kotak",
+    "Loan_Amount": 11363505
+  },
+  {
+    "Buyer_ID": "BYR0229",
+    "Sale_ID": "SAL0229",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "Axis Bank",
+    "Loan_Amount": 14366052
+  },
+  {
+    "Buyer_ID": "BYR0230",
+    "Sale_ID": "SAL0230",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": true,
+    "Loan_Provider": "LIC Housing",
+    "Loan_Amount": 5179607
+  },
+  {
+    "Buyer_ID": "BYR0231",
+    "Sale_ID": "SAL0231",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": true,
+    "Loan_Provider": "Kotak",
+    "Loan_Amount": 18620634
+  },
+  {
+    "Buyer_ID": "BYR0232",
+    "Sale_ID": "SAL0232",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "Kotak",
+    "Loan_Amount": 16853725
+  },
+  {
+    "Buyer_ID": "BYR0233",
+    "Sale_ID": "SAL0233",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "Axis Bank",
+    "Loan_Amount": 1233555
+  },
+  {
+    "Buyer_ID": "BYR0234",
+    "Sale_ID": "SAL0234",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "LIC Housing",
+    "Loan_Amount": 59345456
+  },
+  {
+    "Buyer_ID": "BYR0235",
+    "Sale_ID": "SAL0235",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0236",
+    "Sale_ID": "SAL0236",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0237",
+    "Sale_ID": "SAL0237",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0238",
+    "Sale_ID": "SAL0238",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "HDFC",
+    "Loan_Amount": 25823131
+  },
+  {
+    "Buyer_ID": "BYR0239",
+    "Sale_ID": "SAL0239",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0240",
+    "Sale_ID": "SAL0240",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "ICICI",
+    "Loan_Amount": 3326406
+  },
+  {
+    "Buyer_ID": "BYR0241",
+    "Sale_ID": "SAL0241",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "Kotak",
+    "Loan_Amount": 16890011
+  },
+  {
+    "Buyer_ID": "BYR0242",
+    "Sale_ID": "SAL0242",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0243",
+    "Sale_ID": "SAL0243",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0244",
+    "Sale_ID": "SAL0244",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": true,
+    "Loan_Provider": "ICICI",
+    "Loan_Amount": 18383836
+  },
+  {
+    "Buyer_ID": "BYR0245",
+    "Sale_ID": "SAL0245",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": true,
+    "Loan_Provider": "Kotak",
+    "Loan_Amount": 8641324
+  },
+  {
+    "Buyer_ID": "BYR0246",
+    "Sale_ID": "SAL0246",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0247",
+    "Sale_ID": "SAL0247",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0248",
+    "Sale_ID": "SAL0248",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0249",
+    "Sale_ID": "SAL0249",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": true,
+    "Loan_Provider": "SBI",
+    "Loan_Amount": 4282644
+  },
+  {
+    "Buyer_ID": "BYR0250",
+    "Sale_ID": "SAL0250",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": true,
+    "Loan_Provider": "LIC Housing",
+    "Loan_Amount": 6472186
+  },
+  {
+    "Buyer_ID": "BYR0251",
+    "Sale_ID": "SAL0251",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0252",
+    "Sale_ID": "SAL0252",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "ICICI",
+    "Loan_Amount": 12495077
+  },
+  {
+    "Buyer_ID": "BYR0253",
+    "Sale_ID": "SAL0253",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0254",
+    "Sale_ID": "SAL0254",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0255",
+    "Sale_ID": "SAL0255",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0256",
+    "Sale_ID": "SAL0256",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "Kotak",
+    "Loan_Amount": 19945543
+  },
+  {
+    "Buyer_ID": "BYR0257",
+    "Sale_ID": "SAL0257",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0258",
+    "Sale_ID": "SAL0258",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0259",
+    "Sale_ID": "SAL0259",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0260",
+    "Sale_ID": "SAL0260",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0261",
+    "Sale_ID": "SAL0261",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0262",
+    "Sale_ID": "SAL0262",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0263",
+    "Sale_ID": "SAL0263",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": true,
+    "Loan_Provider": "Kotak",
+    "Loan_Amount": 3741382
+  },
+  {
+    "Buyer_ID": "BYR0264",
+    "Sale_ID": "SAL0264",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0265",
+    "Sale_ID": "SAL0265",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0266",
+    "Sale_ID": "SAL0266",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0267",
+    "Sale_ID": "SAL0267",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": true,
+    "Loan_Provider": "Kotak",
+    "Loan_Amount": 22324421
+  },
+  {
+    "Buyer_ID": "BYR0268",
+    "Sale_ID": "SAL0268",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0269",
+    "Sale_ID": "SAL0269",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0270",
+    "Sale_ID": "SAL0270",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": true,
+    "Loan_Provider": "ICICI",
+    "Loan_Amount": 6891714
+  },
+  {
+    "Buyer_ID": "BYR0271",
+    "Sale_ID": "SAL0271",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0272",
+    "Sale_ID": "SAL0272",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0273",
+    "Sale_ID": "SAL0273",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": true,
+    "Loan_Provider": "ICICI",
+    "Loan_Amount": 5187808
+  },
+  {
+    "Buyer_ID": "BYR0274",
+    "Sale_ID": "SAL0274",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "SBI",
+    "Loan_Amount": 34176026
+  },
+  {
+    "Buyer_ID": "BYR0275",
+    "Sale_ID": "SAL0275",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "LIC Housing",
+    "Loan_Amount": 1869858
+  },
+  {
+    "Buyer_ID": "BYR0276",
+    "Sale_ID": "SAL0276",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "ICICI",
+    "Loan_Amount": 37386103
+  },
+  {
+    "Buyer_ID": "BYR0277",
+    "Sale_ID": "SAL0277",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "Kotak",
+    "Loan_Amount": 11409355
+  },
+  {
+    "Buyer_ID": "BYR0278",
+    "Sale_ID": "SAL0278",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0279",
+    "Sale_ID": "SAL0279",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0280",
+    "Sale_ID": "SAL0280",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "Kotak",
+    "Loan_Amount": 27706931
+  },
+  {
+    "Buyer_ID": "BYR0281",
+    "Sale_ID": "SAL0281",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0282",
+    "Sale_ID": "SAL0282",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": true,
+    "Loan_Provider": "LIC Housing",
+    "Loan_Amount": 14648704
+  },
+  {
+    "Buyer_ID": "BYR0283",
+    "Sale_ID": "SAL0283",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "Axis Bank",
+    "Loan_Amount": 28355845
+  },
+  {
+    "Buyer_ID": "BYR0284",
+    "Sale_ID": "SAL0284",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0285",
+    "Sale_ID": "SAL0285",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "Kotak",
+    "Loan_Amount": 26868303
+  },
+  {
+    "Buyer_ID": "BYR0286",
+    "Sale_ID": "SAL0286",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": true,
+    "Loan_Provider": "LIC Housing",
+    "Loan_Amount": 20169103
+  },
+  {
+    "Buyer_ID": "BYR0287",
+    "Sale_ID": "SAL0287",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0288",
+    "Sale_ID": "SAL0288",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0289",
+    "Sale_ID": "SAL0289",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": true,
+    "Loan_Provider": "SBI",
+    "Loan_Amount": 15002245
+  },
+  {
+    "Buyer_ID": "BYR0290",
+    "Sale_ID": "SAL0290",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0291",
+    "Sale_ID": "SAL0291",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0292",
+    "Sale_ID": "SAL0292",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0293",
+    "Sale_ID": "SAL0293",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0294",
+    "Sale_ID": "SAL0294",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "ICICI",
+    "Loan_Amount": 17733062
+  },
+  {
+    "Buyer_ID": "BYR0295",
+    "Sale_ID": "SAL0295",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": true,
+    "Loan_Provider": "LIC Housing",
+    "Loan_Amount": 4309134
+  },
+  {
+    "Buyer_ID": "BYR0296",
+    "Sale_ID": "SAL0296",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "Kotak",
+    "Loan_Amount": 23091748
+  },
+  {
+    "Buyer_ID": "BYR0297",
+    "Sale_ID": "SAL0297",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0298",
+    "Sale_ID": "SAL0298",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0299",
+    "Sale_ID": "SAL0299",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0300",
+    "Sale_ID": "SAL0300",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0301",
+    "Sale_ID": "SAL0301",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0302",
+    "Sale_ID": "SAL0302",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": true,
+    "Loan_Provider": "HDFC",
+    "Loan_Amount": 12359443
+  },
+  {
+    "Buyer_ID": "BYR0303",
+    "Sale_ID": "SAL0303",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": true,
+    "Loan_Provider": "Kotak",
+    "Loan_Amount": 9428688
+  },
+  {
+    "Buyer_ID": "BYR0304",
+    "Sale_ID": "SAL0304",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "HDFC",
+    "Loan_Amount": 9746124
+  },
+  {
+    "Buyer_ID": "BYR0305",
+    "Sale_ID": "SAL0305",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0306",
+    "Sale_ID": "SAL0306",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "HDFC",
+    "Loan_Amount": 17800269
+  },
+  {
+    "Buyer_ID": "BYR0307",
+    "Sale_ID": "SAL0307",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "Axis Bank",
+    "Loan_Amount": 3256163
+  },
+  {
+    "Buyer_ID": "BYR0308",
+    "Sale_ID": "SAL0308",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": true,
+    "Loan_Provider": "ICICI",
+    "Loan_Amount": 17374166
+  },
+  {
+    "Buyer_ID": "BYR0309",
+    "Sale_ID": "SAL0309",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "SBI",
+    "Loan_Amount": 19706675
+  },
+  {
+    "Buyer_ID": "BYR0310",
+    "Sale_ID": "SAL0310",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0311",
+    "Sale_ID": "SAL0311",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0312",
+    "Sale_ID": "SAL0312",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": true,
+    "Loan_Provider": "Kotak",
+    "Loan_Amount": 10643666
+  },
+  {
+    "Buyer_ID": "BYR0313",
+    "Sale_ID": "SAL0313",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": true,
+    "Loan_Provider": "SBI",
+    "Loan_Amount": 24081894
+  },
+  {
+    "Buyer_ID": "BYR0314",
+    "Sale_ID": "SAL0314",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "Axis Bank",
+    "Loan_Amount": 22267178
+  },
+  {
+    "Buyer_ID": "BYR0315",
+    "Sale_ID": "SAL0315",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "SBI",
+    "Loan_Amount": 19339789
+  },
+  {
+    "Buyer_ID": "BYR0316",
+    "Sale_ID": "SAL0316",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": true,
+    "Loan_Provider": "Axis Bank",
+    "Loan_Amount": 17983339
+  },
+  {
+    "Buyer_ID": "BYR0317",
+    "Sale_ID": "SAL0317",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": true,
+    "Loan_Provider": "Axis Bank",
+    "Loan_Amount": 33445672
+  },
+  {
+    "Buyer_ID": "BYR0318",
+    "Sale_ID": "SAL0318",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0319",
+    "Sale_ID": "SAL0319",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0320",
+    "Sale_ID": "SAL0320",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "Axis Bank",
+    "Loan_Amount": 8039119
+  },
+  {
+    "Buyer_ID": "BYR0321",
+    "Sale_ID": "SAL0321",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0322",
+    "Sale_ID": "SAL0322",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0323",
+    "Sale_ID": "SAL0323",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "Axis Bank",
+    "Loan_Amount": 17378330
+  },
+  {
+    "Buyer_ID": "BYR0324",
+    "Sale_ID": "SAL0324",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0325",
+    "Sale_ID": "SAL0325",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0326",
+    "Sale_ID": "SAL0326",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0327",
+    "Sale_ID": "SAL0327",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0328",
+    "Sale_ID": "SAL0328",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "ICICI",
+    "Loan_Amount": 2929859
+  },
+  {
+    "Buyer_ID": "BYR0329",
+    "Sale_ID": "SAL0329",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0330",
+    "Sale_ID": "SAL0330",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0331",
+    "Sale_ID": "SAL0331",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0332",
+    "Sale_ID": "SAL0332",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0333",
+    "Sale_ID": "SAL0333",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0334",
+    "Sale_ID": "SAL0334",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0335",
+    "Sale_ID": "SAL0335",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0336",
+    "Sale_ID": "SAL0336",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": true,
+    "Loan_Provider": "Kotak",
+    "Loan_Amount": 6642302
+  },
+  {
+    "Buyer_ID": "BYR0337",
+    "Sale_ID": "SAL0337",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": true,
+    "Loan_Provider": "Axis Bank",
+    "Loan_Amount": 4641482
+  },
+  {
+    "Buyer_ID": "BYR0338",
+    "Sale_ID": "SAL0338",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0339",
+    "Sale_ID": "SAL0339",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "Kotak",
+    "Loan_Amount": 19432462
+  },
+  {
+    "Buyer_ID": "BYR0340",
+    "Sale_ID": "SAL0340",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": true,
+    "Loan_Provider": "ICICI",
+    "Loan_Amount": 7152628
+  },
+  {
+    "Buyer_ID": "BYR0341",
+    "Sale_ID": "SAL0341",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0342",
+    "Sale_ID": "SAL0342",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": true,
+    "Loan_Provider": "HDFC",
+    "Loan_Amount": 8229629
+  },
+  {
+    "Buyer_ID": "BYR0343",
+    "Sale_ID": "SAL0343",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "HDFC",
+    "Loan_Amount": 11091708
+  },
+  {
+    "Buyer_ID": "BYR0344",
+    "Sale_ID": "SAL0344",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0345",
+    "Sale_ID": "SAL0345",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "LIC Housing",
+    "Loan_Amount": 11426340
+  },
+  {
+    "Buyer_ID": "BYR0346",
+    "Sale_ID": "SAL0346",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0347",
+    "Sale_ID": "SAL0347",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0348",
+    "Sale_ID": "SAL0348",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": true,
+    "Loan_Provider": "HDFC",
+    "Loan_Amount": 27534764
+  },
+  {
+    "Buyer_ID": "BYR0349",
+    "Sale_ID": "SAL0349",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "SBI",
+    "Loan_Amount": 32514493
+  },
+  {
+    "Buyer_ID": "BYR0350",
+    "Sale_ID": "SAL0350",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0351",
+    "Sale_ID": "SAL0351",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "Axis Bank",
+    "Loan_Amount": 4400059
+  },
+  {
+    "Buyer_ID": "BYR0352",
+    "Sale_ID": "SAL0352",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0353",
+    "Sale_ID": "SAL0353",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0354",
+    "Sale_ID": "SAL0354",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "Axis Bank",
+    "Loan_Amount": 11241064
+  },
+  {
+    "Buyer_ID": "BYR0355",
+    "Sale_ID": "SAL0355",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": true,
+    "Loan_Provider": "Axis Bank",
+    "Loan_Amount": 17238094
+  },
+  {
+    "Buyer_ID": "BYR0356",
+    "Sale_ID": "SAL0356",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0357",
+    "Sale_ID": "SAL0357",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "SBI",
+    "Loan_Amount": 20370720
+  },
+  {
+    "Buyer_ID": "BYR0358",
+    "Sale_ID": "SAL0358",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0359",
+    "Sale_ID": "SAL0359",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0360",
+    "Sale_ID": "SAL0360",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": true,
+    "Loan_Provider": "Axis Bank",
+    "Loan_Amount": 7786242
+  },
+  {
+    "Buyer_ID": "BYR0361",
+    "Sale_ID": "SAL0361",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "Kotak",
+    "Loan_Amount": 1272055
+  },
+  {
+    "Buyer_ID": "BYR0362",
+    "Sale_ID": "SAL0362",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "ICICI",
+    "Loan_Amount": 9615378
+  },
+  {
+    "Buyer_ID": "BYR0363",
+    "Sale_ID": "SAL0363",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0364",
+    "Sale_ID": "SAL0364",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cash",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0365",
+    "Sale_ID": "SAL0365",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0366",
+    "Sale_ID": "SAL0366",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0367",
+    "Sale_ID": "SAL0367",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0368",
+    "Sale_ID": "SAL0368",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "LIC Housing",
+    "Loan_Amount": 19368849
+  },
+  {
+    "Buyer_ID": "BYR0369",
+    "Sale_ID": "SAL0369",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": true,
+    "Loan_Provider": "Kotak",
+    "Loan_Amount": 27774632
+  },
+  {
+    "Buyer_ID": "BYR0370",
+    "Sale_ID": "SAL0370",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "HDFC",
+    "Loan_Amount": 16150521
+  },
+  {
+    "Buyer_ID": "BYR0371",
+    "Sale_ID": "SAL0371",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "UPI",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0372",
+    "Sale_ID": "SAL0372",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0373",
+    "Sale_ID": "SAL0373",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0374",
+    "Sale_ID": "SAL0374",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "LIC Housing",
+    "Loan_Amount": 28489198
+  },
+  {
+    "Buyer_ID": "BYR0375",
+    "Sale_ID": "SAL0375",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0376",
+    "Sale_ID": "SAL0376",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": true,
+    "Loan_Provider": "Kotak",
+    "Loan_Amount": 8604938
+  },
+  {
+    "Buyer_ID": "BYR0377",
+    "Sale_ID": "SAL0377",
+    "Buyer_Type": "End User",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0378",
+    "Sale_ID": "SAL0378",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Bank Transfer",
+    "Loan_Taken": false,
+    "Loan_Provider": null,
+    "Loan_Amount": 0
+  },
+  {
+    "Buyer_ID": "BYR0379",
+    "Sale_ID": "SAL0379",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "HDFC",
+    "Loan_Amount": 32334533
+  },
+  {
+    "Buyer_ID": "BYR0380",
+    "Sale_ID": "SAL0380",
+    "Buyer_Type": "Investor",
+    "Payment_Mode": "Cheque",
+    "Loan_Taken": true,
+    "Loan_Provider": "HDFC",
+    "Loan_Amount": 21362876
+  }
+]

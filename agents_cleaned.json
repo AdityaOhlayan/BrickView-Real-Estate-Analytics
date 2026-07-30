@@ -1,0 +1,167 @@
+[
+  {
+    "Agent_ID": "AGT001",
+    "Name": "Arjun Sharma",
+    "City": "Delhi",
+    "Contact": "+91-9126855092",
+    "Commission_Rate": 3.35,
+    "Deals_Closed": 36,
+    "Rating": 3.4,
+    "Experience_Years": 4,
+    "Avg_Closing_Days": 89
+  },
+  {
+    "Agent_ID": "AGT002",
+    "Name": "Priya Patel",
+    "City": "Delhi",
+    "Contact": "+91-9734036506",
+    "Commission_Rate": 2.55,
+    "Deals_Closed": 8,
+    "Rating": 3.2,
+    "Experience_Years": 8,
+    "Avg_Closing_Days": 84
+  },
+  {
+    "Agent_ID": "AGT003",
+    "Name": "Rahul Gupta",
+    "City": "Mumbai",
+    "Contact": "+91-9702632297",
+    "Commission_Rate": 2.0,
+    "Deals_Closed": 74,
+    "Rating": 3.8,
+    "Experience_Years": 15,
+    "Avg_Closing_Days": 55
+  },
+  {
+    "Agent_ID": "AGT004",
+    "Name": "Sneha Rao",
+    "City": "Mumbai",
+    "Contact": "+91-9914763202",
+    "Commission_Rate": 3.51,
+    "Deals_Closed": 59,
+    "Rating": 3.7,
+    "Experience_Years": 5,
+    "Avg_Closing_Days": 47
+  },
+  {
+    "Agent_ID": "AGT005",
+    "Name": "Vikram Singh",
+    "City": "Pune",
+    "Contact": "+91-9209747451",
+    "Commission_Rate": 1.73,
+    "Deals_Closed": 17,
+    "Rating": 3.7,
+    "Experience_Years": 12,
+    "Avg_Closing_Days": 53
+  },
+  {
+    "Agent_ID": "AGT006",
+    "Name": "Anjali Mehta",
+    "City": "Mumbai",
+    "Contact": "+91-9883543540",
+    "Commission_Rate": 2.65,
+    "Deals_Closed": 20,
+    "Rating": 4.9,
+    "Experience_Years": 13,
+    "Avg_Closing_Days": 30
+  },
+  {
+    "Agent_ID": "AGT007",
+    "Name": "Rohan Verma",
+    "City": "Hyderabad",
+    "Contact": "+91-9990566476",
+    "Commission_Rate": 3.07,
+    "Deals_Closed": 51,
+    "Rating": 4.2,
+    "Experience_Years": 3,
+    "Avg_Closing_Days": 25
+  },
+  {
+    "Agent_ID": "AGT008",
+    "Name": "Kavita Nair",
+    "City": "Chennai",
+    "Contact": "+91-9930075810",
+    "Commission_Rate": 2.22,
+    "Deals_Closed": 15,
+    "Rating": 4.7,
+    "Experience_Years": 4,
+    "Avg_Closing_Days": 68
+  },
+  {
+    "Agent_ID": "AGT009",
+    "Name": "Sanjay Iyer",
+    "City": "Hyderabad",
+    "Contact": "+91-9586845604",
+    "Commission_Rate": 3.09,
+    "Deals_Closed": 51,
+    "Rating": 3.3,
+    "Experience_Years": 12,
+    "Avg_Closing_Days": 46
+  },
+  {
+    "Agent_ID": "AGT010",
+    "Name": "Deepa Reddy",
+    "City": "Hyderabad",
+    "Contact": "+91-9853573823",
+    "Commission_Rate": 3.84,
+    "Deals_Closed": 14,
+    "Rating": 4.2,
+    "Experience_Years": 6,
+    "Avg_Closing_Days": 88
+  },
+  {
+    "Agent_ID": "AGT011",
+    "Name": "Amit Joshi",
+    "City": "Chennai",
+    "Contact": "+91-9275452091",
+    "Commission_Rate": 2.66,
+    "Deals_Closed": 39,
+    "Rating": 5.0,
+    "Experience_Years": 18,
+    "Avg_Closing_Days": 48
+  },
+  {
+    "Agent_ID": "AGT012",
+    "Name": "Pooja Shah",
+    "City": "Pune",
+    "Contact": "+91-9924970419",
+    "Commission_Rate": 3.44,
+    "Deals_Closed": 34,
+    "Rating": 4.6,
+    "Experience_Years": 11,
+    "Avg_Closing_Days": 71
+  },
+  {
+    "Agent_ID": "AGT013",
+    "Name": "Nikhil Desai",
+    "City": "Hyderabad",
+    "Contact": "+91-9171069472",
+    "Commission_Rate": 2.03,
+    "Deals_Closed": 77,
+    "Rating": 4.8,
+    "Experience_Years": 11,
+    "Avg_Closing_Days": 47
+  },
+  {
+    "Agent_ID": "AGT014",
+    "Name": "Swati Kulkarni",
+    "City": "Ahmedabad",
+    "Contact": "+91-9524806516",
+    "Commission_Rate": 3.71,
+    "Deals_Closed": 63,
+    "Rating": 3.3,
+    "Experience_Years": 5,
+    "Avg_Closing_Days": 51
+  },
+  {
+    "Agent_ID": "AGT015",
+    "Name": "Manoj Tiwari",
+    "City": "Hyderabad",
+    "Contact": "+91-9902099969",
+    "Commission_Rate": 2.96,
+    "Deals_Closed": 79,
+    "Rating": 3.8,
+    "Experience_Years": 8,
+    "Avg_Closing_Days": 37
+  }
+]
